@@ -5,7 +5,7 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "https://github.com"
+    "url": "https://github.com/IsmeetKachhap007/fragquiz"
   },
   "main": "index.js",
   "scripts": {
